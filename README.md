@@ -7,7 +7,7 @@ This interactive HR Attrition Dashboard was built to analyze employee attrition 
 ### Visualization Tools: Interactive charts, filters, and dynamic comparisons for better decision-making.
 ## Tools Used:
 ### Power BI for data visualization
-### Excel/SAP Data as the data source
+### Web data as the data source
 ### DAX & Power Query for data transformation
 ## 🔗 View the Dashboard 
 ## 👉 [Click here to view the HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNDgxNmYtYWQwYS00NGJjLTg2MjAtY2U5YmExZWU3NWIyIiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
