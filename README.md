@@ -1,4 +1,4 @@
-# HR Attrition Dashboard 📊
+# HR Attrition Dashboard 👨🏻‍💼
 This interactive HR Attrition Dashboard was built to analyze employee attrition trends based on various factors such as department, salary, experience level, and demographic attributes. The dashboard provides key insights to help HR teams identify patterns and take proactive measures to reduce attrition rates.
 ## Features:
 ### Attrition Overview: Displays total attrition, salary hike impact, promotion gap, and average tenure.
